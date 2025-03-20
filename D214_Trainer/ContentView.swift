@@ -121,4 +121,3 @@ struct DisplayPage_Previews: PreviewProvider {
         ContentView()
     }
 }
-
